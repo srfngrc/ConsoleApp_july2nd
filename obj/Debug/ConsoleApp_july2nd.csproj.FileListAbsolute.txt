@@ -1,0 +1,6 @@
+C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\bin\Debug\ConsoleApp_july2nd.exe.config
+C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\bin\Debug\ConsoleApp_july2nd.exe
+C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\bin\Debug\ConsoleApp_july2nd.pdb
+C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\obj\Debug\ConsoleApp_july2nd.csproj.CoreCompileInputs.cache
+C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\obj\Debug\ConsoleApp_july2nd.exe
+C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\obj\Debug\ConsoleApp_july2nd.pdb
