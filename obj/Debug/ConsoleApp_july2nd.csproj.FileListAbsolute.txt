@@ -4,3 +4,10 @@ C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\bin\Debug\ConsoleApp_july2nd.pdb
 C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\obj\Debug\ConsoleApp_july2nd.csproj.CoreCompileInputs.cache
 C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\obj\Debug\ConsoleApp_july2nd.exe
 C:\BegVCSharp\Chapter02\ConsoleApp_july2nd\obj\Debug\ConsoleApp_july2nd.pdb
+C:\VSRepositories\ConsoleApp_july2ndREPO\obj\Debug\ConsoleApp_july2nd.csprojAssemblyReference.cache
+C:\VSRepositories\ConsoleApp_july2ndREPO\obj\Debug\ConsoleApp_july2nd.csproj.CoreCompileInputs.cache
+C:\VSRepositories\ConsoleApp_july2ndREPO\obj\Debug\ConsoleApp_july2nd.exe
+C:\VSRepositories\ConsoleApp_july2ndREPO\obj\Debug\ConsoleApp_july2nd.pdb
+C:\VSRepositories\ConsoleApp_july2ndREPO\bin\Debug\ConsoleApp_july2nd.exe.config
+C:\VSRepositories\ConsoleApp_july2ndREPO\bin\Debug\ConsoleApp_july2nd.exe
+C:\VSRepositories\ConsoleApp_july2ndREPO\bin\Debug\ConsoleApp_july2nd.pdb
