@@ -14,7 +14,20 @@ namespace ConsoleApp_july2nd
         static void Main(string[] args)
         {
             CalculateSRFN();
-            
+        }
+        static private void CalculateSRFN()
+        {
+            int integerNumber;
+            int i;
+            Console.WriteLine("Please enter an integer N:");
+            int.TryParse(Console.ReadLine(), out integerNumber);
+
+            for (i = 1; i <= 10; i++)
+            {
+                Console.WriteLine(integerNumber + " x " + i + "=" + integerNumber * i);
+                Console.WriteLine();
+            }
+
             Console.WriteLine("Do you wanna calculate it for another integer? (Y/N)");
             string Answer = Console.ReadLine();
             if (Answer == "Y")
@@ -29,21 +42,9 @@ namespace ConsoleApp_july2nd
             else
             {
                 Console.WriteLine("Wrong character. Please enter just 'Y' or 'N'.");
+                System.Environment.Exit(1);
             }
             Console.ReadLine();
-        }
-        static private void CalculateSRFN()
-        {
-            int integerNumber;
-            int i;
-            Console.WriteLine("Please enter an integer N:");
-            int.TryParse(Console.ReadLine(), out integerNumber);
-
-            for (i = 1; i <= 10; i++)
-            {
-                Console.WriteLine(integerNumber + " x " + i + "=" + integerNumber * i);
-                Console.WriteLine();
-            }
         }
 
     }
