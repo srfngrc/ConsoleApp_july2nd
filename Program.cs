@@ -28,24 +28,27 @@ namespace ConsoleApp_july2nd
                 Console.WriteLine();
             }
 
+            WannaTryAgain();
+        }
+
+        private static void WannaTryAgain()
+        {
             Console.WriteLine("Do you wanna calculate it for another integer? (Y/N)");
             string Answer = Console.ReadLine();
-            if (Answer == "Y")
+            if ((Answer == "Y") || (Answer == "y"))
             {
                 CalculateSRFN();
             }
-            else if (Answer == "N")
+            else if ((Answer == "N") || (Answer == "n"))
             {
                 System.Environment.Exit(1);
-                //Application.Exit();
             }
             else
             {
                 Console.WriteLine("Wrong character. Please enter just 'Y' or 'N'.");
-                System.Environment.Exit(1);
+                WannaTryAgain();
             }
             Console.ReadLine();
         }
-
     }
 }
